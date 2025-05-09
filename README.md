@@ -1,4 +1,4 @@
-# Mis proyectos sobre pandas
+# Proyectos sobre pandas
 
 Alcance del Repositorio sobre Pandas
 Este repositorio tiene como objetivo revisar y analizar las principales funcionalidades de la biblioteca pandas, orientadas a su aplicación en el ámbito del trading algorítmico. Se exploran aquellas utilidades que resultan particularmente relevantes para la manipulación, el análisis y la transformación de datos financieros, considerando su impacto en la construcción de estrategias de inversión automatizadas y el procesamiento eficiente de grandes volúmenes de información.
