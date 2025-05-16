@@ -20,7 +20,7 @@ def liquidity(data):
     return df
 
 def get_balancesheets(types,tickers):
-    ruta_balances = sqlite3.connect("C:/Users/thisi/OneDrive/Desktop/Python Crash Course/Proyectos/Automatic Balance Analysis/Bases de datos/balances.db")
+    ruta_balances = sqlite3.connect("xxxxxxx") # Cambiar segun usuario
 
     for type in types:
         for ticker in tickers:
