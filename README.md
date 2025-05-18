@@ -32,6 +32,9 @@ El objetivo final consiste en generar un análisis que posibilite la aplicación
 #
 Bibliografías
 Beaulieu, A. (2020). Learning SQL (3rd ed.). O’Reilly Media.
+
 McKinney, W. (2018). Python for data analysis (2nd ed.). O’Reilly Media. 
+
 The pandas development team. (n.d.). Getting started — pandas documentation. pandas. https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+
 VanderPlas, J. (2017). Python data science handbook. O’Reilly Media.
