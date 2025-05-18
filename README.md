@@ -27,3 +27,11 @@ Proyecto III: Análisis de datos económicos del gobierno.
 El proyecto se fundamenta en los datos recopilados durante el desarrollo del Proyecto II de web scraping, con el propósito de examinar la manipulación y el procesamiento de grandes volúmenes de metadatos mediante el empleo de las bibliotecas pandas y SQL. Estas herramientas permiten abordar de forma eficiente la estructuración, consulta y transformación de la información extraída.
 
 El objetivo final consiste en generar un análisis que posibilite la aplicación automatizada de los valores obtenidos, promoviendo su integración en procesos analíticos o de toma de decisiones posteriores. De esta manera, se busca establecer una base sólida para el desarrollo de sistemas de procesamiento de datos dinámicos y escalables.
+
+
+#
+Bibliografías
+Beaulieu, A. (2020). Learning SQL (3rd ed.). O’Reilly Media.
+McKinney, W. (2018). Python for data analysis (2nd ed.). O’Reilly Media. 
+The pandas development team. (n.d.). Getting started — pandas documentation. pandas. https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+VanderPlas, J. (2017). Python data science handbook. O’Reilly Media.
